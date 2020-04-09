@@ -1,2 +1,2 @@
 # Flutter
-App development using flutter framework provided by Google. The basic idea about the app is an English word gaming app which will be made using dart language on the flutter framework which allows to have a single codebase for Android , iOS and web based apps.
+A collection of original android/ios applications made with the Google flutter framework. The projects mainly consist starting from basic apps like a business card, and gradually moving to a bmi calculator to a chat application and finally to a complex english interactive word game 'VOACABYY'.
