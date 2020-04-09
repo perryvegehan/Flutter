@@ -1,2 +1,16 @@
-# Flutter
-A collection of original android/ios applications made with the Google flutter framework. The projects mainly consist starting from basic apps like a business card, and gradually moving to a bmi calculator to a chat application and finally to a complex english interactive word game 'VOACABYY'.
+# bmiapp
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
